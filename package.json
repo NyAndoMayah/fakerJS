@@ -1,0 +1,23 @@
+{
+  "name": "social-media",
+  "version": "1.0.0",
+  "description": "A basic social media database and its queries, implemented using the PostgreSQL DBMS. Accounts can message each other, send invititations to other accounts, make posts and react to those posts.",
+  "main": "fakerjs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tokyramarozaka/social-media.git"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tokyramarozaka/social-media/issues"
+  },
+  "homepage": "https://github.com/tokyramarozaka/social-media#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
